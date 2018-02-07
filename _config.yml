@@ -1,0 +1,10 @@
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+title: Bonhage Family Farm
+author: The Bonhage Family
+email: us@bonhagefamilyfarm.com
+description: ''
