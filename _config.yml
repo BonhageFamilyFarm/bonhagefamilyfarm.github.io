@@ -8,3 +8,6 @@ title: Bonhage Family Farm
 author: The Bonhage Family
 email: us@bonhagefamilyfarm.com
 description: ''
+
+header_pages:
+  - index.md
