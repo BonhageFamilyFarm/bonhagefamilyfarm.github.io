@@ -3,6 +3,4 @@ layout: default
 title: Home
 
 ---
-# Fleece & Forest
-
-This is the homepage of Fleece & Forest, an alpaca farm owned by Brittany and Christopher Bonhage.
+This is the personal homepage of The Bonhage Family.
